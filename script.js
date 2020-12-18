@@ -13,7 +13,7 @@ function spr(){
 	} else if (UserAgent.indexOf("Opera") > -1 || UserAgent.indexOf("OPR") > -1) {
 		document.write("Opera");
 	} else if (UserAgent.indexOf("Edge") > -1) {
-		document.write("Edge");
+	    document.write("Edge");
 	} else if (UserAgent.indexOf("Chrome") > -1) {
 		document.write("Chrome");
 	} else if (UserAgent.indexOf("Safari") > -1) {
