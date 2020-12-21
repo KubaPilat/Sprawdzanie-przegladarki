@@ -1,1 +1,2 @@
-# Sprawdzanie-przegladarki-
+# Sprawdzanie przegladarki
+wypisuje rozne potrzebne rzeczy
